@@ -1,3 +1,6 @@
 nginx
-apolloconfig/apollo-server
+apache/apollo-adminservice
+apache/apollo-configservice
+apache/apollo-portal
+mysql:5.7
 
