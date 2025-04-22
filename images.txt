@@ -1,6 +1,5 @@
-nginx
-apollo-adminservice
-apollo-configservice
-apollo-portal
 mysql:8.0.31
+apolloconfig/apollo-configservice
+apolloconfig/apollo-adminservice
+
 
