@@ -1,7 +1,2 @@
-mysql:8.0.31
-apolloconfig/apollo-configservice
-apolloconfig/apollo-adminservice
-apolloconfig/apollo-portal
-apolloconfig/apollo-server
-
-
+nobodyiam/apollo-quick-start:latest
+mysql:8.0.25
